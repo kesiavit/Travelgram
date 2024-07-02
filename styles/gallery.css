@@ -1,0 +1,14 @@
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    padding-block: 24px;
+    justify-content: center;
+    width: 1280px;
+    gap: 24px;
+    margin-inline: auto;
+}
+
+.imagem {
+    max-width: 284px;
+    object-fit: cover;
+}

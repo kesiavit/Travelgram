@@ -1,0 +1,23 @@
+header {
+    display: flex;
+    /* width: 1280px; */
+    height: auto;
+    background-color: var(--surface-color);
+    padding: 20px 0;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu {
+    /* margin-left: auto; */
+    color: var(--text-color-secondary);
+    font: var(--text);
+    display: flex;
+    gap: 24px;
+    padding-block: 8px;
+    align-items: center;
+}
+
+#lupa {
+    vertical-align:text-bottom;
+}
